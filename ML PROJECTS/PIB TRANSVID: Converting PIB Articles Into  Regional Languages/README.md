@@ -13,7 +13,7 @@ PIB TRANSVID: Converting PIB Articles Into Regional Languages
        Install and configure ImageMagick for image processing or display purposes within Streamlit app, you can do this last. ImageMagick installation typically 
        involves downloading the binaries or using package managers specific to your operating system.
 
-# Wordflow
+# Workflow
 
 1) Copying Link of PIB Article through PIB website.
 2) Scraping: Copy link in streamlit web interface and scrape the press releases.
